@@ -1,0 +1,41 @@
+.MainHead{
+    color: white;
+    background-color: orangered;
+    font-size: 20px;
+    font-style: bold;
+}
+body{
+    background-size:100% ;
+}
+
+.div_ironman_img{
+    width: 200px;
+    border-radius: 100px;
+    float: left;
+}
+
+.div_flash_img{
+    width: 200px;
+    border-radius: 100px;
+    float: right;
+}
+
+.div_ironman{
+    float: left;
+}
+
+.div_flash{
+    float: right;
+}
+
+canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+  }
+
+  .play_button
+  {
+    width: 130px;
+    font-size: 25px;
+  }
